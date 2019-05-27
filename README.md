@@ -6,4 +6,4 @@ Self taught coding for HTML and CSS/SASS
 
 
 ## Practice: My Personal Website
-1. [My Personal Website](https://github.com/benjavicha1/HTML-CSS-Bootcamp/tree/master/My%20Personal%20Website)
+[My Personal Website](https://github.com/benjavicha1/HTML-CSS-Bootcamp/tree/master/My%20Personal%20Website)
